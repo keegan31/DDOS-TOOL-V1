@@ -44,3 +44,9 @@ Added Termux Support
 Added More Proxies
 200-400 Req/s Average
 
+## Install Via Terminal 💻
+```
+git clone https://github.com/keegan31/DDOS-TOOL-V1.git
+```
+
+
