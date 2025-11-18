@@ -34,11 +34,10 @@ The minimal dependencies are listed in `requirements.txt`:
 
 
 Install dependencies via pip:
-```bash
-
+```
 pip install -r requirements.txt
+```
 
-bash```
 
 ## 🔐 Re-Fined By keegan31
 Added Termux Support 
