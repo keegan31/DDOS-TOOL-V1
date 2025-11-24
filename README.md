@@ -38,10 +38,20 @@ Install dependencies via pip:
 pip install -r requirements.txt
 ```
 
+## Fix By keegan31 💊
+User Agents Werent Loading (Fixed)  
+Added More User Agents (1.1MB/11507)
+Proxies Might Not Work
 
+## Donate 🪙
+BTC
+ ```
+bc1qn44sevdnuzna3q4vpa5fm0u9ga2ekx9h3gj93f
+ ```
 ## 🔐 Re-Fined By keegan31
 Added Termux Support 
 Added More Proxies
+
 200-400 Req/s Average
 
 ## Install Via Terminal 💻
